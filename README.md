@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AMIR RAHMANI</h1>
+<h1 align="center">Hi 👋, I'm Amir Rahmani</h1>
 <h3 align="center">Backend & AI Alchemist: Crafting Robust Solutions in the Heart of Iran's Code Realm</h3>
 
 - 🌱 I’m currently learning **Ruby, Rust**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rxhmxni.amir@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
