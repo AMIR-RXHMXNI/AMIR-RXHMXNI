@@ -1,12 +1,9 @@
-![](https://komarev.com/ghpvc/?username=amirhosseinrahmani&color=006bed)
-
 # 👋 About Me
 
 I'm Amirhossein Rahmani — a passionate DevOps Engineer with a strong background in software engineering. I started coding at 16 and have since specialized in DevOps practices, web development, and automation. My work is focused on streamlining CI/CD pipelines, containerization, and deploying scalable systems with modern cloud and infrastructure technologies.
 
-- 🌍 Based in Switzerland, originally from Iran.
-- 💼 Currently working as a Web & DevOps Engineer at [Agency Think Big](https://agencythinkbig.com).
-- 🎓 Studied Computer Engineering at University of Bojnord, Iran.
+- 🌍 Based in Switzerland.
+- 🎓 Studied Computer Engineering
 - 🧠 Passionate about cloud computing, automation, and building reliable systems.
 
 # 🔧 Skills
@@ -56,9 +53,8 @@ Deployed scalable systems at [Agency Think Big](https://agencythinkbig.com) usin
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinrahmani/)
 [![Email](https://img.shields.io/badge/-amirrahmani@gmx.ch-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:amirrahmani@gmx.ch)
-[![GitHub Followers](https://img.shields.io/github/followers/amirhosseinrahmani?label=Follow&style=social)](https://github.com/amirhosseinrahmani)
 
 ---
 
-📌 *Open to DevOps and Cloud Engineering opportunities across Europe.*
+📌 *Open to Software Engineering, DevOps and Cloud Engineering opportunities across Europe.*
 
