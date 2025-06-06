@@ -52,7 +52,7 @@ Deployed scalable systems at [Agency Think Big](https://agencythinkbig.com) usin
 # 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinrahmani/)
-[![Email](https://img.shields.io/badge/-amirrahmani@gmx.ch-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:rxhmxni.amir@gmail.com)
+[![Email](https://img.shields.io/badge/-rxhmxni.amir@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:rxhmxni.amir@gmail.com)
 
 ---
 
